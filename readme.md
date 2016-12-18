@@ -3,6 +3,7 @@
 ## Descrição
 
 - Crie um usuário, insira o CPF desejado e obtenha a resposta JSON
+- Consulte e exclua pesquisas já realizadas
 - Desenvolvido em Laravel 5.3
 
 ## Instalação
